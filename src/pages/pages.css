@@ -1,0 +1,17 @@
+.page-title{
+    margin-left: 5vw;
+    margin-top: 1vh;
+}
+.data-card{
+    margin-left: 3vw ;
+    margin-bottom: 2vh;
+    width: 15vw;
+    height:20vh;
+}
+.data-card:hover{
+    background-color: rgb(41, 104, 230);
+    color: white;
+}
+.data-card:hover .ant-card-head-title {
+    color: white;
+}
